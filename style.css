@@ -1,0 +1,97 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+.H1{
+color:#FE1005;
+  font-family:Impact,Oxygen;
+  text-decoration: underline;
+  text-align: center;
+}
+.H2{
+color:#df0732;
+  font-family:Oxygen;
+  text-decoration: underline;
+  text-align: center;
+}
+  .H3{
+  color:#df0732;
+    font-family:Oxygen;
+    text-decoration: underline;
+    text-align: center;
+  }
+.H4{
+color:#df0732;
+  font-family:Oxygen;
+  text-decoration: underline;
+  text-align: center;
+}
+.H5{
+color:#df0732;
+  font-family:Oxygen;
+  text-decoration: underline;
+  text-align: center;
+}
+.P1{
+color:#0B21F9;
+font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI';
+  text-align:justify;
+  text-indent:5px;
+  font-weight: 400%;
+}
+.P2{
+color:#0B21F9;
+font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI';
+  text-align:justify;
+  text-indent:5px;
+  font-weight: 400%;
+}
+.P3{
+color:#0B21F9;
+font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI';
+  text-align:justify;
+  text-indent:5px;
+  font-weight: 400%;
+}
+.P4{
+color:#0B21F9;
+font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI';
+  text-align:justify;
+  text-indent:5px;
+  font-weight: 400%;
+}
+.P5{
+color:#0B21F9;
+font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI';
+  text-align:justify;
+  text-indent:5px;
+  font-weight: 400%;
+}
+.L1{
+   color:#0011ff
+  }
+
+hover{
+    color:#14164d;
+  text-decoration: overline;
+  }
+
+.L2{
+ color:#0011ff
+  
+}
+a:hover{
+color:#14164d;
+text-decoration: overline;
+}
+
+.L3{
+ color:#0011ff
+}
+  a:hover{
+  color:#14164d;
+  text-decoration: overline;
+  }
+body{
+background-color:#EB81F0
+}
